@@ -1,37 +1,43 @@
-<div align="center">
+<h1 align="center">👋 Hey there, I'm <span style="color:#ff69b4;">Damini Tiwari</span>!</h1>
 
-# 👋 Hey there, I'm Damini Tiwari!
-
-🎓 **Computer Science Undergrad** at SRM University  
-👩‍💻 Aspiring **Full Stack Developer** & **ML Enthusiast**  
-💡 Passionate about building scalable, secure, and intelligent software solutions
-
-</div>
+<p align="center">
+🎓 <strong>Computer Science Undergrad</strong> at SRM University  
+<br>👩‍💻 Aspiring <strong>Full Stack Developer</strong> & <strong>ML Enthusiast</strong>  
+<br>💡 Passionate about building <em>scalable, secure, and intelligent</em> software solutions
+</p>
 
 ---
 
-<div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
+> ## 🛠️ Tech Stack
 
-## 🛠 Tech Stack
-
-- 💻 **Languages:** C++, Python, C#  
-- 🌐 **Web Dev:** React.js, ASP.NET Core, Node.js, HTML, Tailwind CSS, GSAP, Vercel  
-- 🗄️ **Databases:** SQL Server, Firebase, MongoDB, Supabase  
-- 💼 **Tools:** Git, AWS, Jira  
-- 🧠 **CS Concepts:** DSA, OS, AI/ML, DBMS, Agile, Compiler Design  
-
----
-
-## 🚀 Currently Learning
-
-- 🤖 Deep Learning with TensorFlow and PyTorch  
-- 🧠 LLM Engineering using RAG, Ollama, and LangChain  
-- 🛠️ Backend Development with Node.js  
+| Area           | Tech Stack                                                                 |
+|----------------|-----------------------------------------------------------------------------|
+| 💻 Languages   | C++, Python, C#                                                              |
+| 🌐 Web Dev     | React.js, ASP.NET Core, Node.js, HTML, Tailwind CSS, GSAP, Vercel           |
+| 🗄️ Databases   | SQL Server, Firebase, MongoDB, Supabase                                     |
+| ⚙️ Tools       | Git, AWS, Jira                                                               |
+| 🧠 CS Concepts | DSA, OS, AI/ML, DBMS, Agile, Compiler Design                                 |
 
 ---
 
-## 📫 Contact Me
+> ## 🚀 Currently Learning
+
+- 🤖 Deep Learning with **TensorFlow** and **PyTorch**  
+- 🧠 LLM Engineering using **RAG**, **Ollama**, and **LangChain**  
+- 🛠️ Backend Development with **Node.js**
+
+---
+
+> ## 📫 Contact Me
 
 📧 **Email:** [123daminitiwari@gmail.com](mailto:123daminitiwari@gmail.com)
 
-</div>
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?logo=tailwind-css&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=black&style=for-the-badge"/>
+</p>
