@@ -19,5 +19,13 @@
 🧰 Tools:          Git, AWS, Jira
 🧠 CS Concepts:    DSA, OS, AI/ML, DBMS, Agile, Compiler Design
 
+---
 
+## 📊 GitHub Stats
 
+---
+
+## 🚀 Currently Learning
+Deep Learning with TensorFlow and Pytorch
+LLM Engineering using RAG, Ollama and LangChain
+Backend with NodeJS 
