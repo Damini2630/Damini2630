@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Currently Learning
+### 🚀 Currently Learning
 ```text
 - Deep Learning with TensorFlow and Pytorch
 - LLM Engineering using RAG, Ollama and LangChain
