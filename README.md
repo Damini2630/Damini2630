@@ -1,10 +1,16 @@
+<div align="center">
+
 # 👋 Hey there, I'm Damini Tiwari!
 
 🎓 **Computer Science Undergrad** at SRM University  
 👩‍💻 Aspiring **Full Stack Developer** & **ML Enthusiast**  
 💡 Passionate about building scalable, secure, and intelligent software solutions
 
+</div>
+
 ---
+
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
 
 ## 🛠 Tech Stack
 
@@ -28,4 +34,4 @@
 
 📧 **Email:** [123daminitiwari@gmail.com](mailto:123daminitiwari@gmail.com)
 
----
+</div>
