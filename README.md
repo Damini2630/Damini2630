@@ -38,6 +38,6 @@
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?logo=tailwind-css&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
