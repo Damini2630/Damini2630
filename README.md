@@ -1,29 +1,31 @@
 # 👋 Hey there, I'm Damini Tiwari!
 
-🎓 **Computer Science undergrad** from SRM University | 👩‍💻 Aspiring Full Stack Developer & ML Enthusiast  
-💡 Turning ideas into scalable, secure, and smart software solutions
+🎓 **Computer Science Undergrad** at SRM University  
+👩‍💻 Aspiring **Full Stack Developer** & **ML Enthusiast**  
+💡 Passionate about building scalable, secure, and intelligent software solutions
 
 ---
 
 ## 🛠 Tech Stack
 
-```text
-💻 Languages:      C++, Python, C#
-🌐 Web Dev:        React.js, ASP.NET Core, Node.js, HTML, Tailwind CSS, GSAP, Vercel
-🗄️ Databases:      SQL Server, Firebase, MongoDB, Supabase
-🧰 Tools:          Git, AWS, Jira
-🧠 CS Concepts:    DSA, OS, AI/ML, DBMS, Agile, Compiler Design
+- 💻 **Languages:** C++, Python, C#  
+- 🌐 **Web Dev:** React.js, ASP.NET Core, Node.js, HTML, Tailwind CSS, GSAP, Vercel  
+- 🗄️ **Databases:** SQL Server, Firebase, MongoDB, Supabase  
+- 💼 **Tools:** Git, AWS, Jira  
+- 🧠 **CS Concepts:** DSA, OS, AI/ML, DBMS, Agile, Compiler Design  
 
 ---
 
-### 🚀 Currently Learning
-```text
-- Deep Learning with TensorFlow and Pytorch
-- LLM Engineering using RAG, Ollama and LangChain
-- Backend with NodeJS 
+## 🚀 Currently Learning
+
+- 🤖 Deep Learning with TensorFlow and PyTorch  
+- 🧠 LLM Engineering using RAG, Ollama, and LangChain  
+- 🛠️ Backend Development with Node.js  
 
 ---
 
-- 📫 How to reach me **123daminitiwari@gmail.com**
+## 📫 Contact Me
+
+📧 **Email:** [123daminitiwari@gmail.com](mailto:123daminitiwari@gmail.com)
 
 ---
